@@ -28,5 +28,8 @@ region's director and store managers to support data-driven business decisions.
 - Built a unified State column combining in-store and online sale locations
 
 ## Video Walkthrough
-LINK TO YOUR VIDEO
+LINK TO YOUR VIDEO : https://youtu.be/nhtDIV2ufQM
+
+
+
 
